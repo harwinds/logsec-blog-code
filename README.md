@@ -481,4 +481,4 @@ echo END
 ```
 
 ## References:
-- [Create admin credentials after starting Splunk Enterprise](https://docs.splunk.com/Documentation/Splunk/latest/Security/Secureyouradminaccount#Create_admin_credentials_after_starting_Splunk_Enterprise){:target="_blank"}
+- [Create admin credentials after starting Splunk Enterprise](https://docs.splunk.com/Documentation/Splunk/latest/Security/Secureyouradminaccount#Create_admin_credentials_after_starting_Splunk_Enterprise)
