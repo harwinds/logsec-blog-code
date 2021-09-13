@@ -44,7 +44,7 @@ output "splunk_route_table" {
   value       = module.splunk.splunk_route_table
 }
 
-output for ubuntu module
+# output for ubuntu module
 output "ubuntu_instance_id" {
   description = "Instance ID"
   value       = module.ubuntu.ubuntu_instance_id
